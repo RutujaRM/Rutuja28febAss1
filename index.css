@@ -1,0 +1,21 @@
+body{
+     margin: 0px;
+    background-color: #F3C5C5;
+}
+
+
+h1{
+     text-align: center;
+     font-family: 'Courier New', Courier, monospace;
+     font-size: xx-large;
+}
+
+button{
+        height: 40px;
+        width: 300px;
+        border-radius: 30px;
+        margin: 150px 0px 0px 550px;
+        background-color: crimson;
+        color: aliceblue;
+        font-size: x-large;
+}
